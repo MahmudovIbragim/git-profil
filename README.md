@@ -1,17 +1,14 @@
-<div align="center">
-  <img width="800px" height="125px" src="https://elcho911.netlify.app/Elkhan2003-icons/elcho.gif"/>
-</div>
 
-<h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/Elkhan2003" target="_blank">Elcho</a> 
+<h1 align="center"><span class="hi">Hi </span><span class="name">I'm</span> <a class="hi" href="https://github.com/Mahmudovibragim" target="_blank">Ibragim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## 🙋‍♂️ About Me
 
-<a href="https://github.com/MahmudovIbragim">
+<a href="https://github.com/Mahmudovibragim">
   <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Frontend+Developer"/>
 </a>
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats -->
 
 <!-- <div style="display: flex; justify-content: center; align-items: center;">
 <a href="https://github.com/Elkhan2003"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Elkhan2003&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
